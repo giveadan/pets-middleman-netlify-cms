@@ -8,16 +8,16 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.6.0)
       public_suffix (>= 2.0.2, < 4.0)
-    autoprefixer-rails (9.5.1.1)
+    autoprefixer-rails (9.6.0)
       execjs
-    backports (3.14.0)
+    backports (3.15.0)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
     coffee-script-source (1.12.2)
     concurrent-ruby (1.1.5)
     contracts (0.13.0)
-    dotenv (2.7.2)
+    dotenv (2.7.4)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
@@ -26,8 +26,8 @@ GEM
     execjs (2.7.0)
     fast_blank (1.0.0)
     fastimage (2.1.5)
-    ffi (1.10.0)
-    haml (5.0.4)
+    ffi (1.11.1)
+    haml (5.1.1)
       temple (>= 0.8.0)
       tilt
     hamster (3.0.0)
@@ -91,7 +91,7 @@ GEM
     padrino-support (0.13.3.4)
       activesupport (>= 3.1)
     parallel (1.17.0)
-    public_suffix (3.0.3)
+    public_suffix (3.1.1)
     rack (2.0.7)
     rack-livereload (0.3.17)
       rack
